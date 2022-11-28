@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NVComputingTeam
+- This is a fake account created because I needed to name the leaderboard in Advent of Code something reasonable
+- This it NOT the official NV Computing account
+- Check out https://github.com/NVComputing instead
